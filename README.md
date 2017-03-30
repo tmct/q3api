@@ -1,5 +1,5 @@
 # q3api
-An attempt to convert Q3's SignalR API to a RESTful one. Not yet functional.
+An attempt to convert [Q3](https://github.com/garethed/Q3)'s SignalR API to a RESTful one. Not yet functional.
 
 ## Instructions
 1. `npm install`
